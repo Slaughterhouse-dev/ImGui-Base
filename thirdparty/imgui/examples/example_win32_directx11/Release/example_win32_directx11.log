@@ -1,0 +1,280 @@
+﻿  gui.cpp
+D:\Programming\ImGui Base\framework\settings\colors.h(9,9): warning C4201: нестандартное расширение: структура (объединение) без имени
+  (компиляция исходного файла "../../../../framework/gui.cpp")
+  
+D:\Programming\ImGui Base\framework\headers\functions.h(19,31): warning C4459: объявление "var" скрывает глобальное объявление
+  (компиляция исходного файла "../../../../framework/gui.cpp")
+      D:\Programming\ImGui Base\framework\settings\variables.h(23,37):
+       см. объявление "var"
+  
+  draw.cpp
+D:\Programming\ImGui Base\framework\settings\colors.h(9,9): warning C4201: нестандартное расширение: структура (объединение) без имени
+  (компиляция исходного файла "../../../../framework/helpers/draw.cpp")
+  
+D:\Programming\ImGui Base\framework\headers\functions.h(19,31): warning C4459: объявление "var" скрывает глобальное объявление
+  (компиляция исходного файла "../../../../framework/helpers/draw.cpp")
+      D:\Programming\ImGui Base\framework\settings\variables.h(23,37):
+       см. объявление "var"
+  
+D:\Programming\ImGui Base\framework\helpers\draw.cpp(17,50): warning C4459: объявление "draw" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\draw.h(66,32):
+       см. объявление "draw"
+  
+D:\Programming\ImGui Base\framework\helpers\draw.cpp(138,43): warning C4459: объявление "draw" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\draw.h(66,32):
+       см. объявление "draw"
+  
+D:\Programming\ImGui Base\framework\helpers\draw.cpp(153,56): warning C4459: объявление "font" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\fonts.h(29,32):
+       см. объявление "font"
+  
+D:\Programming\ImGui Base\framework\helpers\draw.cpp(183,58): warning C4459: объявление "font" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\fonts.h(29,32):
+       см. объявление "font"
+  
+D:\Programming\ImGui Base\framework\helpers\draw.cpp(254,77): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  fonts.cpp
+D:\Programming\ImGui Base\framework\settings\colors.h(9,9): warning C4201: нестандартное расширение: структура (объединение) без имени
+  (компиляция исходного файла "../../../../framework/helpers/fonts.cpp")
+  
+D:\Programming\ImGui Base\framework\headers\functions.h(19,31): warning C4459: объявление "var" скрывает глобальное объявление
+  (компиляция исходного файла "../../../../framework/helpers/fonts.cpp")
+      D:\Programming\ImGui Base\framework\settings\variables.h(23,37):
+       см. объявление "var"
+  
+D:\Programming\ImGui Base\framework\helpers\fonts.cpp(11,22): warning C4459: объявление "cfg" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\config.h(83,34):
+       см. объявление "cfg"
+  
+D:\Programming\ImGui Base\framework\helpers\fonts.cpp(20,94): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\ImGui Base\framework\helpers\fonts.cpp(32,16): warning C4459: объявление "font" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\fonts.h(29,32):
+       см. объявление "font"
+  
+  helpers.cpp
+D:\Programming\ImGui Base\framework\settings\colors.h(9,9): warning C4201: нестандартное расширение: структура (объединение) без имени
+  (компиляция исходного файла "../../../../framework/widgets/helpers.cpp")
+  
+D:\Programming\ImGui Base\framework\headers\functions.h(19,31): warning C4459: объявление "var" скрывает глобальное объявление
+  (компиляция исходного файла "../../../../framework/widgets/helpers.cpp")
+      D:\Programming\ImGui Base\framework\settings\variables.h(23,37):
+       см. объявление "var"
+  
+D:\Programming\ImGui Base\framework\widgets\helpers.cpp(42,19): warning C4189: g: локальная переменная инициализирована, но не использована
+D:\Programming\ImGui Base\framework\widgets\helpers.cpp(56,31): warning C4459: объявление "font" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\fonts.h(29,32):
+       см. объявление "font"
+  
+D:\Programming\ImGui Base\framework\widgets\helpers.cpp(71,13): warning C4459: объявление "font" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\fonts.h(29,32):
+       см. объявление "font"
+  
+D:\Programming\ImGui Base\framework\widgets\helpers.cpp(430,13): warning C4459: объявление "font" скрывает глобальное объявление
+      D:\Programming\ImGui Base\framework\headers\fonts.h(29,32):
+       см. объявление "font"
+  
+  notify.cpp
+D:\Programming\ImGui Base\framework\settings\colors.h(9,9): warning C4201: нестандартное расширение: структура (объединение) без имени
+  (компиляция исходного файла "../../../../framework/widgets/notify.cpp")
+  
+D:\Programming\ImGui Base\framework\headers\functions.h(19,31): warning C4459: объявление "var" скрывает глобальное объявление
+  (компиляция исходного файла "../../../../framework/widgets/notify.cpp")
+      D:\Programming\ImGui Base\framework\settings\variables.h(23,37):
+       см. объявление "var"
+  
+D:\Programming\ImGui Base\framework\widgets\notify.cpp(37,152): warning C4100: "type": неиспользованный параметр
+D:\Programming\ImGui Base\framework\widgets\notify.cpp(37,80): warning C4100: "notify_percentage": неиспользованный параметр
+  window.cpp
+D:\Programming\ImGui Base\framework\settings\colors.h(9,9): warning C4201: нестандартное расширение: структура (объединение) без имени
+  (компиляция исходного файла "../../../../framework/widgets/window.cpp")
+  
+D:\Programming\ImGui Base\framework\headers\functions.h(19,31): warning C4459: объявление "var" скрывает глобальное объявление
+  (компиляция исходного файла "../../../../framework/widgets/window.cpp")
+      D:\Programming\ImGui Base\framework\settings\variables.h(23,37):
+       см. объявление "var"
+  
+D:\Programming\ImGui Base\framework\widgets\window.cpp(112,19): warning C4189: g: локальная переменная инициализирована, но не использована
+D:\Programming\ImGui Base\framework\widgets\window.cpp(162,19): warning C4189: g: локальная переменная инициализирована, но не использована
+D:\Programming\ImGui Base\framework\widgets\window.cpp(494,94): warning C4100: "clamp": неиспользованный параметр
+D:\Programming\ImGui Base\framework\widgets\window.cpp(910,21): warning C4505: "nav_restore_last_child_nav_window": неиспользованная функция с внутренним связыванием удалена
+  main.cpp
+D:\Programming\ImGui Base\framework\settings\colors.h(9,9): warning C4201: нестандартное расширение: структура (объединение) без имени
+  (компиляция исходного файла "main.cpp")
+  
+D:\Programming\ImGui Base\framework\headers\functions.h(19,31): warning C4459: объявление "var" скрывает глобальное объявление
+  (компиляция исходного файла "main.cpp")
+      D:\Programming\ImGui Base\framework\settings\variables.h(23,37):
+       см. объявление "var"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(12,9): warning C4005: DXGI_STATUS_OCCLUDED: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59237,9):
+      см. предыдущее определение "DXGI_STATUS_OCCLUDED"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(13,9): warning C4005: DXGI_STATUS_CLIPPED: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59246,9):
+      см. предыдущее определение "DXGI_STATUS_CLIPPED"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(14,9): warning C4005: DXGI_STATUS_NO_REDIRECTION: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      см. предыдущее определение "DXGI_STATUS_NO_REDIRECTION"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(15,9): warning C4005: DXGI_STATUS_NO_DESKTOP_ACCESS: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      см. предыдущее определение "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(16,9): warning C4005: DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      см. предыдущее определение "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(17,9): warning C4005: DXGI_STATUS_MODE_CHANGED: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      см. предыдущее определение "DXGI_STATUS_MODE_CHANGED"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(18,9): warning C4005: DXGI_STATUS_MODE_CHANGE_IN_PROGRESS: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      см. предыдущее определение "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(21,9): warning C4005: DXGI_ERROR_INVALID_CALL: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59306,9):
+      см. предыдущее определение "DXGI_ERROR_INVALID_CALL"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(22,9): warning C4005: DXGI_ERROR_NOT_FOUND: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59315,9):
+      см. предыдущее определение "DXGI_ERROR_NOT_FOUND"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(23,9): warning C4005: DXGI_ERROR_MORE_DATA: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      см. предыдущее определение "DXGI_ERROR_MORE_DATA"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(24,9): warning C4005: DXGI_ERROR_UNSUPPORTED: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      см. предыдущее определение "DXGI_ERROR_UNSUPPORTED"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(25,9): warning C4005: DXGI_ERROR_DEVICE_REMOVED: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      см. предыдущее определение "DXGI_ERROR_DEVICE_REMOVED"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(26,9): warning C4005: DXGI_ERROR_DEVICE_HUNG: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      см. предыдущее определение "DXGI_ERROR_DEVICE_HUNG"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(27,9): warning C4005: DXGI_ERROR_DEVICE_RESET: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59361,9):
+      см. предыдущее определение "DXGI_ERROR_DEVICE_RESET"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(28,9): warning C4005: DXGI_ERROR_WAS_STILL_DRAWING: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59370,9):
+      см. предыдущее определение "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(29,9): warning C4005: DXGI_ERROR_FRAME_STATISTICS_DISJOINT: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59380,9):
+      см. предыдущее определение "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(30,9): warning C4005: DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59389,9):
+      см. предыдущее определение "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(31,9): warning C4005: DXGI_ERROR_DRIVER_INTERNAL_ERROR: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59399,9):
+      см. предыдущее определение "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(32,9): warning C4005: DXGI_ERROR_NONEXCLUSIVE: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59408,9):
+      см. предыдущее определение "DXGI_ERROR_NONEXCLUSIVE"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(33,9): warning C4005: DXGI_ERROR_NOT_CURRENTLY_AVAILABLE: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      см. предыдущее определение "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(34,9): warning C4005: DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59427,9):
+      см. предыдущее определение "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\dxgitype.h(35,9): warning C4005: DXGI_ERROR_REMOTE_OUTOFMEMORY: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59436,9):
+      см. предыдущее определение "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\d3d11.h(917,9): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59751,9):
+      см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\d3d11.h(918,9): warning C4005: D3D11_ERROR_FILE_NOT_FOUND: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59760,9):
+      см. предыдущее определение "D3D11_ERROR_FILE_NOT_FOUND"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\d3d11.h(919,9): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59770,9):
+      см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\d3d11.h(920,9): warning C4005: D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59779,9):
+      см. предыдущее определение "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\d3d10.h(608,9): warning C4005: D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59727,9):
+      см. предыдущее определение "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+D:\Programming\ImGui Base\thirdparty\dxsdk\Include\d3d10.h(609,9): warning C4005: D3D10_ERROR_FILE_NOT_FOUND: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59736,9):
+      см. предыдущее определение "D3D10_ERROR_FILE_NOT_FOUND"
+  
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1966 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+freetype.lib(ftinit.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftinit.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftbase.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftbase.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftsynth.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftsynth.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(autofit.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(autofit.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(truetype.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(truetype.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(type1.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(type1.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(cff.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(cff.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(type1cid.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(type1cid.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(pfr.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(pfr.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(type42.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(type42.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(winfnt.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(winfnt.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(pcf.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(pcf.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(bdf.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(bdf.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(psaux.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(psaux.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(psmodule.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(psmodule.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(pshinter.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(pshinter.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(sfnt.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(sfnt.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(smooth.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(smooth.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(raster.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(raster.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(sdf.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(sdf.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(svg.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(svg.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftsystem.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftsystem.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftbitmap.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftbitmap.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftgzip.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftgzip.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftlzw.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftlzw.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftdebug.obj) : warning LNK4099: "freetype.pdb" PDB не найден с "freetype.lib(ftdebug.obj)" или на "D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\freetype.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  example_win32_directx11.vcxproj -> D:\Programming\ImGui Base\thirdparty\imgui\examples\example_win32_directx11\Release\example_win32_directx11.exe
