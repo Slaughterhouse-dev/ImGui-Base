@@ -1,0 +1,46 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.user
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.log
+*.iobj
+*.ipdb
+*.idb
+*.lastbuildstate
+*.recipe
+*.FileListAbsolute.txt
+
+# Compiled files
+*.o
+*.lib
+*.exp
+
+# Third-party libraries
+thirdparty/
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Config files (uncomment if they contain personal data)
+# config.json
